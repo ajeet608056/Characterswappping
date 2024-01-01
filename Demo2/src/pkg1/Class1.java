@@ -8,5 +8,6 @@ public class Class1
 	
 		System.out.println("Ajeet");
 		System.out.println("Done");
+		System.out.println("All done");
 	}
 }
